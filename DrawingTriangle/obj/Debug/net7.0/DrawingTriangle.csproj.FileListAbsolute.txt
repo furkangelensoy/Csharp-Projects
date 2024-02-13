@@ -1,0 +1,14 @@
+D:\.NetPractice\C#-Projects\DrawingTriangle\bin\Debug\net7.0\DrawingTriangle.exe
+D:\.NetPractice\C#-Projects\DrawingTriangle\bin\Debug\net7.0\DrawingTriangle.deps.json
+D:\.NetPractice\C#-Projects\DrawingTriangle\bin\Debug\net7.0\DrawingTriangle.runtimeconfig.json
+D:\.NetPractice\C#-Projects\DrawingTriangle\bin\Debug\net7.0\DrawingTriangle.dll
+D:\.NetPractice\C#-Projects\DrawingTriangle\bin\Debug\net7.0\DrawingTriangle.pdb
+D:\.NetPractice\C#-Projects\DrawingTriangle\obj\Debug\net7.0\DrawingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetPractice\C#-Projects\DrawingTriangle\obj\Debug\net7.0\DrawingTriangle.AssemblyInfoInputs.cache
+D:\.NetPractice\C#-Projects\DrawingTriangle\obj\Debug\net7.0\DrawingTriangle.AssemblyInfo.cs
+D:\.NetPractice\C#-Projects\DrawingTriangle\obj\Debug\net7.0\DrawingTriangle.csproj.CoreCompileInputs.cache
+D:\.NetPractice\C#-Projects\DrawingTriangle\obj\Debug\net7.0\DrawingTriangle.dll
+D:\.NetPractice\C#-Projects\DrawingTriangle\obj\Debug\net7.0\refint\DrawingTriangle.dll
+D:\.NetPractice\C#-Projects\DrawingTriangle\obj\Debug\net7.0\DrawingTriangle.pdb
+D:\.NetPractice\C#-Projects\DrawingTriangle\obj\Debug\net7.0\DrawingTriangle.genruntimeconfig.cache
+D:\.NetPractice\C#-Projects\DrawingTriangle\obj\Debug\net7.0\ref\DrawingTriangle.dll

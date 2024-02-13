@@ -1,0 +1,14 @@
+D:\.NetPractice\C#-Projects\ReverseString\bin\Debug\net7.0\ReverseString.exe
+D:\.NetPractice\C#-Projects\ReverseString\bin\Debug\net7.0\ReverseString.deps.json
+D:\.NetPractice\C#-Projects\ReverseString\bin\Debug\net7.0\ReverseString.runtimeconfig.json
+D:\.NetPractice\C#-Projects\ReverseString\bin\Debug\net7.0\ReverseString.dll
+D:\.NetPractice\C#-Projects\ReverseString\bin\Debug\net7.0\ReverseString.pdb
+D:\.NetPractice\C#-Projects\ReverseString\obj\Debug\net7.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetPractice\C#-Projects\ReverseString\obj\Debug\net7.0\ReverseString.AssemblyInfoInputs.cache
+D:\.NetPractice\C#-Projects\ReverseString\obj\Debug\net7.0\ReverseString.AssemblyInfo.cs
+D:\.NetPractice\C#-Projects\ReverseString\obj\Debug\net7.0\ReverseString.csproj.CoreCompileInputs.cache
+D:\.NetPractice\C#-Projects\ReverseString\obj\Debug\net7.0\ReverseString.dll
+D:\.NetPractice\C#-Projects\ReverseString\obj\Debug\net7.0\refint\ReverseString.dll
+D:\.NetPractice\C#-Projects\ReverseString\obj\Debug\net7.0\ReverseString.pdb
+D:\.NetPractice\C#-Projects\ReverseString\obj\Debug\net7.0\ReverseString.genruntimeconfig.cache
+D:\.NetPractice\C#-Projects\ReverseString\obj\Debug\net7.0\ref\ReverseString.dll

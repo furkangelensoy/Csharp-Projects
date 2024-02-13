@@ -1,0 +1,14 @@
+D:\.NetPractice\C#-Projects\Algorithm\bin\Debug\net7.0\Algorithm.exe
+D:\.NetPractice\C#-Projects\Algorithm\bin\Debug\net7.0\Algorithm.deps.json
+D:\.NetPractice\C#-Projects\Algorithm\bin\Debug\net7.0\Algorithm.runtimeconfig.json
+D:\.NetPractice\C#-Projects\Algorithm\bin\Debug\net7.0\Algorithm.dll
+D:\.NetPractice\C#-Projects\Algorithm\bin\Debug\net7.0\Algorithm.pdb
+D:\.NetPractice\C#-Projects\Algorithm\obj\Debug\net7.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetPractice\C#-Projects\Algorithm\obj\Debug\net7.0\Algorithm.AssemblyInfoInputs.cache
+D:\.NetPractice\C#-Projects\Algorithm\obj\Debug\net7.0\Algorithm.AssemblyInfo.cs
+D:\.NetPractice\C#-Projects\Algorithm\obj\Debug\net7.0\Algorithm.csproj.CoreCompileInputs.cache
+D:\.NetPractice\C#-Projects\Algorithm\obj\Debug\net7.0\Algorithm.dll
+D:\.NetPractice\C#-Projects\Algorithm\obj\Debug\net7.0\refint\Algorithm.dll
+D:\.NetPractice\C#-Projects\Algorithm\obj\Debug\net7.0\Algorithm.pdb
+D:\.NetPractice\C#-Projects\Algorithm\obj\Debug\net7.0\Algorithm.genruntimeconfig.cache
+D:\.NetPractice\C#-Projects\Algorithm\obj\Debug\net7.0\ref\Algorithm.dll

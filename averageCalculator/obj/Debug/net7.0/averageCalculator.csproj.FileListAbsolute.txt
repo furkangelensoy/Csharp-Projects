@@ -1,0 +1,14 @@
+D:\.NetPractice\C#-Projects\averageCalculator\bin\Debug\net7.0\averageCalculator.exe
+D:\.NetPractice\C#-Projects\averageCalculator\bin\Debug\net7.0\averageCalculator.deps.json
+D:\.NetPractice\C#-Projects\averageCalculator\bin\Debug\net7.0\averageCalculator.runtimeconfig.json
+D:\.NetPractice\C#-Projects\averageCalculator\bin\Debug\net7.0\averageCalculator.dll
+D:\.NetPractice\C#-Projects\averageCalculator\bin\Debug\net7.0\averageCalculator.pdb
+D:\.NetPractice\C#-Projects\averageCalculator\obj\Debug\net7.0\averageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetPractice\C#-Projects\averageCalculator\obj\Debug\net7.0\averageCalculator.AssemblyInfoInputs.cache
+D:\.NetPractice\C#-Projects\averageCalculator\obj\Debug\net7.0\averageCalculator.AssemblyInfo.cs
+D:\.NetPractice\C#-Projects\averageCalculator\obj\Debug\net7.0\averageCalculator.csproj.CoreCompileInputs.cache
+D:\.NetPractice\C#-Projects\averageCalculator\obj\Debug\net7.0\averageCalculator.dll
+D:\.NetPractice\C#-Projects\averageCalculator\obj\Debug\net7.0\refint\averageCalculator.dll
+D:\.NetPractice\C#-Projects\averageCalculator\obj\Debug\net7.0\averageCalculator.pdb
+D:\.NetPractice\C#-Projects\averageCalculator\obj\Debug\net7.0\averageCalculator.genruntimeconfig.cache
+D:\.NetPractice\C#-Projects\averageCalculator\obj\Debug\net7.0\ref\averageCalculator.dll
