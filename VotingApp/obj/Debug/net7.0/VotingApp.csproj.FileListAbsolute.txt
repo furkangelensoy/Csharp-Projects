@@ -1,0 +1,14 @@
+D:\.NetPractice\Csharp-Projects\VotingApp\bin\Debug\net7.0\VotingApp.exe
+D:\.NetPractice\Csharp-Projects\VotingApp\bin\Debug\net7.0\VotingApp.deps.json
+D:\.NetPractice\Csharp-Projects\VotingApp\bin\Debug\net7.0\VotingApp.runtimeconfig.json
+D:\.NetPractice\Csharp-Projects\VotingApp\bin\Debug\net7.0\VotingApp.dll
+D:\.NetPractice\Csharp-Projects\VotingApp\bin\Debug\net7.0\VotingApp.pdb
+D:\.NetPractice\Csharp-Projects\VotingApp\obj\Debug\net7.0\VotingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetPractice\Csharp-Projects\VotingApp\obj\Debug\net7.0\VotingApp.AssemblyInfoInputs.cache
+D:\.NetPractice\Csharp-Projects\VotingApp\obj\Debug\net7.0\VotingApp.AssemblyInfo.cs
+D:\.NetPractice\Csharp-Projects\VotingApp\obj\Debug\net7.0\VotingApp.csproj.CoreCompileInputs.cache
+D:\.NetPractice\Csharp-Projects\VotingApp\obj\Debug\net7.0\VotingApp.dll
+D:\.NetPractice\Csharp-Projects\VotingApp\obj\Debug\net7.0\refint\VotingApp.dll
+D:\.NetPractice\Csharp-Projects\VotingApp\obj\Debug\net7.0\VotingApp.pdb
+D:\.NetPractice\Csharp-Projects\VotingApp\obj\Debug\net7.0\VotingApp.genruntimeconfig.cache
+D:\.NetPractice\Csharp-Projects\VotingApp\obj\Debug\net7.0\ref\VotingApp.dll
