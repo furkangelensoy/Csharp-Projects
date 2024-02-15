@@ -1,0 +1,14 @@
+D:\.NetPractice\Csharp-Projects\AbsoluteSquare\bin\Debug\net7.0\AbsoluteSquare.exe
+D:\.NetPractice\Csharp-Projects\AbsoluteSquare\bin\Debug\net7.0\AbsoluteSquare.deps.json
+D:\.NetPractice\Csharp-Projects\AbsoluteSquare\bin\Debug\net7.0\AbsoluteSquare.runtimeconfig.json
+D:\.NetPractice\Csharp-Projects\AbsoluteSquare\bin\Debug\net7.0\AbsoluteSquare.dll
+D:\.NetPractice\Csharp-Projects\AbsoluteSquare\bin\Debug\net7.0\AbsoluteSquare.pdb
+D:\.NetPractice\Csharp-Projects\AbsoluteSquare\obj\Debug\net7.0\AbsoluteSquare.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetPractice\Csharp-Projects\AbsoluteSquare\obj\Debug\net7.0\AbsoluteSquare.AssemblyInfoInputs.cache
+D:\.NetPractice\Csharp-Projects\AbsoluteSquare\obj\Debug\net7.0\AbsoluteSquare.AssemblyInfo.cs
+D:\.NetPractice\Csharp-Projects\AbsoluteSquare\obj\Debug\net7.0\AbsoluteSquare.csproj.CoreCompileInputs.cache
+D:\.NetPractice\Csharp-Projects\AbsoluteSquare\obj\Debug\net7.0\AbsoluteSquare.dll
+D:\.NetPractice\Csharp-Projects\AbsoluteSquare\obj\Debug\net7.0\refint\AbsoluteSquare.dll
+D:\.NetPractice\Csharp-Projects\AbsoluteSquare\obj\Debug\net7.0\AbsoluteSquare.pdb
+D:\.NetPractice\Csharp-Projects\AbsoluteSquare\obj\Debug\net7.0\AbsoluteSquare.genruntimeconfig.cache
+D:\.NetPractice\Csharp-Projects\AbsoluteSquare\obj\Debug\net7.0\ref\AbsoluteSquare.dll

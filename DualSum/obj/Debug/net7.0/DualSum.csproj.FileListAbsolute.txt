@@ -1,0 +1,14 @@
+D:\.NetPractice\Csharp-Projects\DualSum\bin\Debug\net7.0\DualSum.exe
+D:\.NetPractice\Csharp-Projects\DualSum\bin\Debug\net7.0\DualSum.deps.json
+D:\.NetPractice\Csharp-Projects\DualSum\bin\Debug\net7.0\DualSum.runtimeconfig.json
+D:\.NetPractice\Csharp-Projects\DualSum\bin\Debug\net7.0\DualSum.dll
+D:\.NetPractice\Csharp-Projects\DualSum\bin\Debug\net7.0\DualSum.pdb
+D:\.NetPractice\Csharp-Projects\DualSum\obj\Debug\net7.0\DualSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetPractice\Csharp-Projects\DualSum\obj\Debug\net7.0\DualSum.AssemblyInfoInputs.cache
+D:\.NetPractice\Csharp-Projects\DualSum\obj\Debug\net7.0\DualSum.AssemblyInfo.cs
+D:\.NetPractice\Csharp-Projects\DualSum\obj\Debug\net7.0\DualSum.csproj.CoreCompileInputs.cache
+D:\.NetPractice\Csharp-Projects\DualSum\obj\Debug\net7.0\DualSum.dll
+D:\.NetPractice\Csharp-Projects\DualSum\obj\Debug\net7.0\refint\DualSum.dll
+D:\.NetPractice\Csharp-Projects\DualSum\obj\Debug\net7.0\DualSum.pdb
+D:\.NetPractice\Csharp-Projects\DualSum\obj\Debug\net7.0\DualSum.genruntimeconfig.cache
+D:\.NetPractice\Csharp-Projects\DualSum\obj\Debug\net7.0\ref\DualSum.dll

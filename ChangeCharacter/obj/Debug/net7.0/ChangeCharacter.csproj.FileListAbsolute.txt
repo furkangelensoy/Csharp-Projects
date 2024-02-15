@@ -1,0 +1,14 @@
+D:\.NetPractice\Csharp-Projects\ChangeCharacter\bin\Debug\net7.0\ChangeCharacter.exe
+D:\.NetPractice\Csharp-Projects\ChangeCharacter\bin\Debug\net7.0\ChangeCharacter.deps.json
+D:\.NetPractice\Csharp-Projects\ChangeCharacter\bin\Debug\net7.0\ChangeCharacter.runtimeconfig.json
+D:\.NetPractice\Csharp-Projects\ChangeCharacter\bin\Debug\net7.0\ChangeCharacter.dll
+D:\.NetPractice\Csharp-Projects\ChangeCharacter\bin\Debug\net7.0\ChangeCharacter.pdb
+D:\.NetPractice\Csharp-Projects\ChangeCharacter\obj\Debug\net7.0\ChangeCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetPractice\Csharp-Projects\ChangeCharacter\obj\Debug\net7.0\ChangeCharacter.AssemblyInfoInputs.cache
+D:\.NetPractice\Csharp-Projects\ChangeCharacter\obj\Debug\net7.0\ChangeCharacter.AssemblyInfo.cs
+D:\.NetPractice\Csharp-Projects\ChangeCharacter\obj\Debug\net7.0\ChangeCharacter.csproj.CoreCompileInputs.cache
+D:\.NetPractice\Csharp-Projects\ChangeCharacter\obj\Debug\net7.0\ChangeCharacter.dll
+D:\.NetPractice\Csharp-Projects\ChangeCharacter\obj\Debug\net7.0\refint\ChangeCharacter.dll
+D:\.NetPractice\Csharp-Projects\ChangeCharacter\obj\Debug\net7.0\ChangeCharacter.pdb
+D:\.NetPractice\Csharp-Projects\ChangeCharacter\obj\Debug\net7.0\ChangeCharacter.genruntimeconfig.cache
+D:\.NetPractice\Csharp-Projects\ChangeCharacter\obj\Debug\net7.0\ref\ChangeCharacter.dll

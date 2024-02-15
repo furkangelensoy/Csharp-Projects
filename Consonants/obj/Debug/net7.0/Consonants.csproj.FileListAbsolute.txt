@@ -1,0 +1,14 @@
+D:\.NetPractice\Csharp-Projects\Consonants\bin\Debug\net7.0\Consonants.exe
+D:\.NetPractice\Csharp-Projects\Consonants\bin\Debug\net7.0\Consonants.deps.json
+D:\.NetPractice\Csharp-Projects\Consonants\bin\Debug\net7.0\Consonants.runtimeconfig.json
+D:\.NetPractice\Csharp-Projects\Consonants\bin\Debug\net7.0\Consonants.dll
+D:\.NetPractice\Csharp-Projects\Consonants\bin\Debug\net7.0\Consonants.pdb
+D:\.NetPractice\Csharp-Projects\Consonants\obj\Debug\net7.0\Consonants.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetPractice\Csharp-Projects\Consonants\obj\Debug\net7.0\Consonants.AssemblyInfoInputs.cache
+D:\.NetPractice\Csharp-Projects\Consonants\obj\Debug\net7.0\Consonants.AssemblyInfo.cs
+D:\.NetPractice\Csharp-Projects\Consonants\obj\Debug\net7.0\Consonants.csproj.CoreCompileInputs.cache
+D:\.NetPractice\Csharp-Projects\Consonants\obj\Debug\net7.0\Consonants.dll
+D:\.NetPractice\Csharp-Projects\Consonants\obj\Debug\net7.0\refint\Consonants.dll
+D:\.NetPractice\Csharp-Projects\Consonants\obj\Debug\net7.0\Consonants.pdb
+D:\.NetPractice\Csharp-Projects\Consonants\obj\Debug\net7.0\Consonants.genruntimeconfig.cache
+D:\.NetPractice\Csharp-Projects\Consonants\obj\Debug\net7.0\ref\Consonants.dll
