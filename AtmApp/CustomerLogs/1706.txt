@@ -1,0 +1,8 @@
+Charlotte with id number 1706 failed log in on 16.02.2024 20:47:52!
+Charlotte with id number 1706 successfully logged in on 16.02.2024 20:48:22!
+Charlotte with id number 1706 successfully deposit 1313$ on 16.02.2024 20:48:37!
+Charlotte with id number 1706 failed withdrawal 5000$ on 16.02.2024 20:48:56!
+Charlotte with id number 1706 successfully sent 1230$ to Julia with id number 1705 on 16.02.2024 20:49:21!
+Charlotte with id number 1706 viewed his/her balance on 16.02.2024 20:49:29!
+Charlotte with id number 1706 successfully deposit 17$ on 16.02.2024 20:49:37!
+Charlotte with id number 1706 logged out on 16.02.2024 20:49:42!

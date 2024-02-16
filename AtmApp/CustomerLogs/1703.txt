@@ -1,0 +1,10 @@
+John with id number 1703 successfully logged in on 16.02.2024 20:44:11!
+John with id number 1703 successfully withdrawal 200$ on 16.02.2024 20:44:14!
+John with id number 1703 successfully sent 320$ to Cameron with id number 1707 on 16.02.2024 20:45:03!
+John with id number 1703 viewed his/her balance on 16.02.2024 20:45:38!
+John with id number 1703 successfully withdrawal 410$ on 16.02.2024 20:45:52!
+John with id number 1703 failed withdrawal 100$ on 16.02.2024 20:46:04!
+John with id number 1703 successfully deposit 930$ on 16.02.2024 20:46:14!
+John with id number 1703 viewed his/her balance on 16.02.2024 20:46:15!
+John with id number 1703 logged out on 16.02.2024 20:46:19!
+John with id number 1703 successfully received 130$ from Cameron with id number 1707 on 16.02.2024 20:53:34!

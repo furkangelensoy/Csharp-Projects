@@ -1,0 +1,8 @@
+Julia with id number 1705 successfully logged in on 16.02.2024 20:37:17!
+Julia with id number 1705 successfully withdrawal 200$ on 16.02.2024 20:37:32!
+Julia with id number 1705 successfully sent 100$ to Noah with id number 1704 on 16.02.2024 20:38:15!
+Julia with id number 1705 successfully logged in on 16.02.2024 20:41:09!
+Julia with id number 1705 successfully sent 100$ to Noah with id number 1704 on 16.02.2024 20:41:37!
+Julia with id number 1705 viewed his/her balance on 16.02.2024 20:41:49!
+Julia with id number 1705 logged out on 16.02.2024 20:41:52!
+Julia with id number 1705 successfully received 1230$ from Charlotte with id number 1706 on 16.02.2024 20:49:21!

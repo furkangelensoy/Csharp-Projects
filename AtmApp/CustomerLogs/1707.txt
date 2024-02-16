@@ -1,0 +1,6 @@
+Cameron with id number 1707 successfully received 320$ from John with id number 1703 on 16.02.2024 20:45:03!
+Cameron with id number 1707 failed log in on 16.02.2024 20:52:57!
+Cameron with id number 1707 successfully logged in on 16.02.2024 20:53:02!
+Cameron with id number 1707 viewed his/her balance on 16.02.2024 20:53:04!
+Cameron with id number 1707 successfully sent 130$ to John with id number 1703 on 16.02.2024 20:53:34!
+Cameron with id number 1707 logged out on 16.02.2024 20:53:39!
